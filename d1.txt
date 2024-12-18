@@ -1,6 +1,3 @@
-hello this is feature for merge
-hello
-<<<<<<< HEAD
+
 hrllo
-=======
->>>>>>> e1095ec (commit)
+
